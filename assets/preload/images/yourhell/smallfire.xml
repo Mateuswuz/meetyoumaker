@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smallfire.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smallfire0000" x="0" y="0" width="273" height="503" frameX="0" frameY="-68" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0001" x="0" y="0" width="273" height="503" frameX="0" frameY="-68" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0002" x="273" y="0" width="261" height="515" frameX="-9" frameY="-58" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0003" x="273" y="0" width="261" height="515" frameX="-9" frameY="-58" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0004" x="534" y="0" width="272" height="532" frameX="-7" frameY="-37" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0005" x="534" y="0" width="272" height="532" frameX="-7" frameY="-37" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0006" x="806" y="0" width="280" height="574" frameX="-15" frameY="0" frameWidth="295" frameHeight="574"/>
+	<SubTexture name="smallfire0007" x="806" y="0" width="280" height="574" frameX="-15" frameY="0" frameWidth="295" frameHeight="574"/>
+</TextureAtlas>
