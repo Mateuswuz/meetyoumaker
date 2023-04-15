@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Burning.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SNCDOWN0000" x="0" y="0" width="688" height="851"/>
+	<SubTexture name="SNCDOWN0001" x="0" y="0" width="688" height="851"/>
+	<SubTexture name="SNCDOWN0002" x="688" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0003" x="1375" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0004" x="2062" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0005" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0006" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0007" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0008" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0009" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0010" x="2749" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0011" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0012" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0013" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0014" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0015" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCDOWN0016" x="3436" y="0" width="687" height="851" frameX="0" frameY="0" frameWidth="688" frameHeight="851"/>
+	<SubTexture name="SNCIDLE0000" x="4123" y="0" width="469" height="866" frameX="-20" frameY="-5" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0001" x="4123" y="0" width="469" height="866" frameX="-20" frameY="-5" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0002" x="4592" y="0" width="467" height="870" frameX="-12" frameY="-2" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0003" x="4592" y="0" width="467" height="870" frameX="-12" frameY="-2" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0004" x="5059" y="0" width="464" height="872" frameX="-3" frameY="0" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0005" x="5059" y="0" width="464" height="872" frameX="-3" frameY="0" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0006" x="5523" y="0" width="463" height="871" frameX="-1" frameY="0" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0007" x="5986" y="0" width="463" height="871" frameX="-1" frameY="0" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0008" x="6449" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0009" x="6910" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0010" x="6910" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0011" x="7371" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0012" x="7371" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0013" x="7371" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCIDLE0014" x="7371" y="0" width="461" height="870" frameX="0" frameY="-1" frameWidth="489" frameHeight="872"/>
+	<SubTexture name="SNCLEFT0000" x="0" y="872" width="752" height="981" frameX="0" frameY="-1" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0001" x="0" y="872" width="752" height="981" frameX="0" frameY="-1" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0002" x="752" y="872" width="744" height="982" frameX="-9" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0003" x="1496" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0004" x="2236" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0005" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0006" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0007" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0008" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0009" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0010" x="2976" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0011" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0012" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0013" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0014" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0015" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCLEFT0016" x="3716" y="872" width="740" height="982" frameX="-14" frameY="0" frameWidth="754" frameHeight="982"/>
+	<SubTexture name="SNCRIGHT0000" x="4456" y="872" width="670" height="944" frameX="-3" frameY="0" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0001" x="4456" y="872" width="670" height="944" frameX="-3" frameY="0" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0002" x="5126" y="872" width="664" height="942" frameX="0" frameY="-2" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0003" x="5790" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0004" x="6449" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0005" x="7108" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0006" x="7108" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0007" x="7108" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0008" x="7108" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0009" x="7108" y="872" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0010" x="0" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0011" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0012" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0013" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0014" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0015" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCRIGHT0016" x="659" y="1854" width="659" height="941" frameX="0" frameY="-3" frameWidth="673" frameHeight="944"/>
+	<SubTexture name="SNCUP0000" x="1318" y="1854" width="683" height="858" frameX="-4" frameY="0" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0001" x="1318" y="1854" width="683" height="858" frameX="-4" frameY="0" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0002" x="2001" y="1854" width="654" height="857" frameX="-2" frameY="-1" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0003" x="2655" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0004" x="3310" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0005" x="3965" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0006" x="3965" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0007" x="3965" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0008" x="3965" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0009" x="3965" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0010" x="4620" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0011" x="4620" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0012" x="4620" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0013" x="4620" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+	<SubTexture name="SNCUP0014" x="4620" y="1854" width="655" height="856" frameX="0" frameY="-2" frameWidth="687" frameHeight="858"/>
+</TextureAtlas>
