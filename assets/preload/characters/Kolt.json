@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KOLTIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KOLTLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KOLTDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KOLTRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KOLTUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "KOLTLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-52
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "KOLTDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "KOLTUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "KOLTRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KOLT",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kolt",
+	"flip_x": true,
+	"healthbar_colors": [
+		119,
+		64,
+		78
+	],
+	"camera_position": [
+		240,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

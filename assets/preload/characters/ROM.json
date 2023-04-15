@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ROMIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ROMDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ROMLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ROMRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ROMUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ROM",
+	"position": [
+		20,
+		80
+	],
+	"healthicon": "rom",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		88,
+		255
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

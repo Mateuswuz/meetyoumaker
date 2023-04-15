@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ROMIDLE"
+		},
+		{
+			"offsets": [
+				26,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fool",
+			"loop": false,
+			"name": "YOUFOOLROM"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RomLine1",
+	"position": [
+		20,
+		80
+	],
+	"healthicon": "rom",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		88,
+		255
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
