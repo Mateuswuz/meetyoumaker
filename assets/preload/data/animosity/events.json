@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				7875,
+				[
+					[
+						"Play Animation",
+						"fool",
+						"dad"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ROM"
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"RomLine2"
+					]
+				]
+			],
+			[
+				96625,
+				[
+					[
+						"Play Animation",
+						"burn",
+						"dad"
+					]
+				]
+			],
+			[
+				107160.43956044,
+				[
+					[
+						"Change Character",
+						"dad",
+						"burning"
+					],
+					[
+						"Change Character",
+						"bf",
+						"kolt"
+					]
+				]
+			]
+		]
+	}
+}
