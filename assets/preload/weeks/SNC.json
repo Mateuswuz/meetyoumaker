@@ -1,0 +1,32 @@
+{
+	"storyName": "Meet your maker.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "snc",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Animosity",
+			"rom",
+			[
+				66,
+				20,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "snc"
+}
